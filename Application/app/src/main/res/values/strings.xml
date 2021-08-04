@@ -7,7 +7,12 @@
     <string name="account_balance">Powered By</string>
     <string name="balance_currency">$</string>
     <string name="balance_amount">VideoBox</string>
-
+    
+    <!-- json link -->
+    <string name="json_playlist">https://github.com/AsepMo/Android-Template-Evolution/raw/master/json/playlist.json</string>
+    <string name="json_release">https://github.com/AsepMo/Android-Template-Evolution/raw/master/json/release.json</string>
+    <string name="json_updater">https://github.com/AsepMo/Android-Template-Evolution/raw/master/json/updater.json</string>
+    
     <!-- Download upgrade notification -->
     <string name="actions_update">Update Available</string>
     <string name="btn_update">Update</string>

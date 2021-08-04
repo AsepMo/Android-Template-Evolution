@@ -1,0 +1,7 @@
+{
+	"versionCode": 2,
+	"cancellable": false,
+	//"url": "https://asepmo-story.000webhostapp.com/updater/AppUpdater.apk"
+	"url": "https://github.com/AsepMo/Android-Template-Evolution/releases/download/v1.2/Evolution-Release.apk"
+}
+}
