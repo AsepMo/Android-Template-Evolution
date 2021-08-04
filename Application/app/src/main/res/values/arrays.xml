@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ld_activityScreenTitles">
+        <item>Video</item>
+        <item>Library</item>
+        <item>Folder</item>
+        <item>Download</item>
+        <item />
+        <item>Exit</item>
+    </string-array>
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_video_player</item>
+        <item>@drawable/ic_library_video</item>
+        <item>@drawable/ic_video_folder</item>
+        <item>@drawable/ic_video_cloud_download</item>
+        <item>0</item>
+        <item>@drawable/ic_logout_grey600_24dp</item>
+    </array>
+    <string-array name="pref_upload_quality_entries">
+        <item>360p</item>
+        <item>480p</item>
+        <item>720p</item>
+        <item>1080p</item>
+        <item>Original</item>
+    </string-array>
+    <string-array name="pref_upload_quality_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <!-- String Array For Themes -->
+    <string-array name="theme_style_names">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>Auto</item>
+    </string-array>
+
+    <string-array name="theme_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    
+    <!-- color prefernce -->
+    <string-array name="default_color_choice_values" translatable="false">
+        <item>#0288D1</item>
+        <item>#f44336</item>
+        <item>#E91E63</item>
+        <item>#9C27B0</item>
+        <item>#673AB7</item>
+        <item>#3F51B5</item>
+        <item>#03A9F4</item>
+        <item>#00BCD4</item>
+        <item>#009688</item>
+        <item>#4CAF50</item>
+        <item>#8BC34A</item>
+        <item>#CDDC39</item>
+        <item>#FFEB3B</item>
+        <item>#FFC107</item>
+        <item>#FF9800</item>
+        <item>#FF5722</item>
+        <item>#795548</item>
+        <item>#9E9E9E</item>
+        <item>#607D8B</item>
+        <item>#222222</item>
+    </string-array>
+    
+</resources>

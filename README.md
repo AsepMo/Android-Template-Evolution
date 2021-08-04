@@ -1,1 +1,2 @@
-# Android-Template-Evolution
+## Android-Template-Evolution
+### Version 1.0

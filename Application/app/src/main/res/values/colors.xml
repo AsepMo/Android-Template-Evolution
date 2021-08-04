@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7b4bff</color>
+    <color name="colorPrimaryDark">#6539ba</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="colorControlNormal">#FF5722</color>
+    <color name="colorControlActivated">#FF4081</color>
+    <color name="colorControlHighlight">#B6B6B6</color>
+    <color name="colorButtonNormal">@color/defaultColor</color>
+    <color name="colorSwitchThumbNormal">#19C1B2</color>
+    <color name="navigationBarColor">@color/colorPrimaryDark</color>
+    
+    <!-- Color For TextColor -->
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#727272</color>
+    
+    <color name="alertColor">#323232</color>
+    <color name="alertDarkColor">#ff242424</color>
+    <color name="statusBarColor">#28000000</color>
+    <color name="rowBackground">#F2F2F2</color>
+    <color name="windowBackground">#C0C3C6</color>
+    
+    <color name="defaultColor">#ffa53f2b</color>
+    <color name="defaultColorSecondary">#EF3A0F</color>
+    <color name="android_bright_blue">#33B5E5</color>
+    
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color> <!-- ff191919 -->
+    <color name="divider_inverted">#ff2a2a2a</color> <!-- ff191919 -->
+    <!-- General -->
+    <color name="about_item_icon_color">#313131</color>
+    <color name="about_background_color">#FFFFFF</color>
+    <color name="about_separator_color">#e1e1e1</color>
+
+    <!-- Social -->
+    <color name="about_facebook_color">#3b5998</color>
+    <color name="about_twitter_color">#55acee</color>
+    <color name="about_instagram_color">#3f729b</color>
+    <color name="about_play_store_color">#689F38</color>
+    <color name="about_youtube_color">#cd201f</color>
+    <color name="about_github_color">#333333</color>
+
+
+    <!-- Text -->
+    <color name="about_description_text_color">#595959</color>
+    <color name="about_item_text_color">#7c7c7c</color>
+    <color name="about_text_color">#595959</color>
+</resources>
